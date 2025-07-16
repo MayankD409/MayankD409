@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently studying M.Eng Robotics at **University of Maryland, College Park**
 
-- 🌱 I’m currently learning **Multi-agent Reinforcement learning**
+- 🌱 I’m currently learning **Multi-Agent AI**
 
-- 👯 I’m looking to collaborate on **Robot Perception and computer vision**
+- 👯 I’m looking to collaborate on **Multimodal Agentic AI**
 
 - 📫 How to reach me **msdeshp4@umd.edu**
 
