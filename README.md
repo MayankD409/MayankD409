@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Deshpande!!</h1>
-<h3 align="center">Aspiring robotics engineer passionate about working on Perception and Planning for swarm robots.</h3>
+<h3 align="center">Aspiring robotics engineer passionate about working on Agentic AI in Embodied Space.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankd409&label=Profile%20views&color=0e75b6&style=flat" alt="mayankd409" /> </p>
 
